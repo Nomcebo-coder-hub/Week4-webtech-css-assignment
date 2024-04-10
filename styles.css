@@ -3,6 +3,10 @@ header {
   padding: 10px;
 }
 
+h1 {
+  text-align: center;
+}
+
 p {
   background-color: aquamarine;
   margin: 20px auto;
