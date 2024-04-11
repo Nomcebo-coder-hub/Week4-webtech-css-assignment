@@ -10,6 +10,7 @@ h1 {
 p {
   background-color: aquamarine;
   margin: 40px auto;
+  border-radius: 10px;
 }
 
 li {
@@ -20,4 +21,5 @@ li {
 .container {
   background-color: bisque;
   padding: 10px;
+  border-radius: 10px;
 }
