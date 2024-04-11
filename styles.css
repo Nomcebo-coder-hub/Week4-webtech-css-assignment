@@ -9,10 +9,15 @@ h1 {
 
 p {
   background-color: aquamarine;
-  margin: 20px auto;
+  margin: 40px auto;
 }
 
 li {
   padding: 5px;
   margin: 0 10px;
+}
+
+.container {
+  background-color: bisque;
+  padding: 10px;
 }
